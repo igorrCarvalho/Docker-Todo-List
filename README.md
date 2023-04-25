@@ -1,6 +1,6 @@
 # Welcome to project Docker-Todo-List repositorie!
 
-This project was made using Docker knowledge. It doesn't implement any feature, it was a project just to gain some experience in Docker.
+This project was made using Docker knowledge. It doesn't implement any feature, it is a project just to gain some experience in Docker.
 
 # Development
 
