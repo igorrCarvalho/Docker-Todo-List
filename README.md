@@ -1,10 +1,17 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Welcome to project Docker-Todo-List repositorie!
+
+This project was made using Docker knowledge. It doesn't implement any feature, it was a project just to gain some experience in Docker.
+
+# Development
+
+This project was developed by [Igor Carvalho](https://www.linkedin.com/in/dev-igor-carvalho/) while studying at Trybe.
+
+# Details about the project
+
+<details>
+  <summary><strong>👨‍💻 Used tecnologies</strong></summary><br />
+
+  - Docker
+  - JavaScript
+
+</details>
